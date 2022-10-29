@@ -10,9 +10,7 @@ function UsuarioEntrada (props) {
                     <input type="text" 
                     id="name" 
                     name="nome"
-                    placeholder="Digite seu nome"
-                    
-                    />        
+                    placeholder="Digite seu nome "/>        
                 </div>
               
             </form>
